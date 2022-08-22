@@ -61941,13 +61941,13 @@ A.Ef.prototype={
 H(a){var s=null,r=A.ahT(s,B.ha,B.h9,s),q=A.aI(a).RG,p=A.ei(q.a),o=A.ei(q.b),n=A.ei(q.c),m=A.ei(q.d),l=A.ei(q.e),k=A.ei(q.f),j=A.ei(q.r),i=A.ei(q.w),h=A.ei(q.x)
 h=r.YD(A.adI(A.ei(q.y),A.ei(q.z),A.ei(q.Q),p,o,n,m,l,k,A.ei(q.as),A.ei(q.at),A.ei(q.ax),j,i,h))
 i=A.a([A.Vz(s,!0,B.C1,s,new A.XN(),B.b6,s,s)],t.p)
-return new A.ui(new A.vX(new A.Fm(new A.r8(B.QG,i,0,B.G,new A.LA(s,s,1/0,56),s),B.Me,s),A.a17(A.Ra(B.Ei,B.aK,B.ba),s),s),"FoodNerve",h,!1,s)}}
+return new A.ui(new A.vX(new A.Fm(new A.r8(B.QI,i,0,B.G,new A.LA(s,s,1/0,56),s),B.Me,s),A.a17(A.Ra(B.Ei,B.aK,B.ba),s),s),"FoodNerve",h,!1,s)}}
 A.XN.prototype={
 $0(){},
 $S:0}
 A.Dj.prototype={
 H(a){var s=null
-return A.di(s,A.oZ(A.a([new A.N_(new A.Um(this),s,s,s,s,B.m,s,!1,s,new A.N0(B.QI,B.C4,s),s)],t.p),B.aK,B.h7,B.bP),B.m,B.h9,s,s,s,50,s,s,s,s,s)},
+return A.di(s,A.oZ(A.a([new A.N_(new A.Um(this),s,s,s,s,B.m,s,!1,s,new A.N0(B.QH,B.C4,s),s)],t.p),B.aK,B.h7,B.bP),B.m,B.h9,s,s,s,50,s,s,s,s,s)},
 eI(a){return this.a0A(a)},
 a0A(a){var s=0,r=A.S(t.z),q=this
 var $async$eI=A.T(function(b,c){if(b===1)return A.P(c,r)
@@ -61969,7 +61969,7 @@ A.us.prototype={
 a4(){return new A.KB(B.j)}}
 A.KB.prototype={
 H(a){var s=null,r=a.W(t.w).f
-return A.di(s,new A.dA(B.Bw,A.a17(A.Ra(A.a([B.QF,B.Mk,B.kn,B.QH,B.kn,B.Cg,B.kn,new A.CF(new A.a7M(this),s,s,s,A.ag8(s,s,B.ha,s,s,s,s,s,s,s,s,s,B.Bx,s,s,s,s,s,s),B.m,s,!1,s,B.QJ,s)],t.p),B.aK,B.h7),s),s),B.m,s,s,B.kZ,s,r.a.b,s,s,s,s,s)},
+return A.di(s,new A.dA(B.Bw,A.a17(A.Ra(A.a([B.QG,B.Mk,B.kn,B.QF,B.kn,B.Cg,B.kn,new A.CF(new A.a7M(this),s,s,s,A.ag8(s,s,B.ha,s,s,s,s,s,s,s,s,s,B.Bx,s,s,s,s,s,s),B.m,s,!1,s,B.QJ,s)],t.p),B.aK,B.h7),s),s),B.m,s,s,B.kZ,s,r.a.b,s,s,s,s,s)},
 eI(a){return this.a0B(a)},
 a0B(a){var s=0,r=A.S(t.z),q=this
 var $async$eI=A.T(function(b,c){if(b===1)return A.P(c,r)
@@ -67837,13 +67837,13 @@ B.QC=new A.dC(B.Pa,B.Ql,B.Q3,B.NS,B.PW,B.P3,B.Qp,B.Om,B.ON,B.PR,B.NN,B.Q5,B.PU,B
 B.QD=new A.wO(1,"longestLine")
 B.O3=new A.p(!0,B.i,null,null,null,null,16,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.QE=new A.h7("See what we've been up to ",null,B.O3,null,null,null)
-B.vW=new A.p(!0,B.i,null,null,null,null,18,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.QF=new A.h7("You are sure of a meal",null,B.vW,B.er,null,null)
-B.QG=new A.h7("FoodNerve",null,B.vW,null,null,null)
 B.Pj=new A.p(!0,B.i,null,null,null,null,15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.QH=new A.h7("The FoodNerve App brings all the best free food for easy pick up around you. We believe that everyday with FoodNerve is hunger free",null,B.Pj,B.er,null,null)
+B.QF=new A.h7("The FoodNerve App brings all the best free food for easy pick up around you. We believe that everyday with FoodNerve is hunger free.",null,B.Pj,B.er,null,null)
+B.vW=new A.p(!0,B.i,null,null,null,null,18,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.QG=new A.h7("You are sure of a meal",null,B.vW,B.er,null,null)
 B.NL=new A.p(!0,B.i,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,B.vR,null,null,null,null,null,null,null,null)
-B.QI=new A.h7("Send us a whatsapp message",null,B.NL,null,null,null)
+B.QH=new A.h7("Send us a whatsapp message",null,B.NL,null,null,null)
+B.QI=new A.h7("FoodNerve OS",null,B.vW,null,null,null)
 B.O4=new A.p(!0,B.i,null,null,null,null,10,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.QJ=new A.h7("Download App",null,B.O4,null,null,null)
 B.TM=new A.Hk(0,"system")
